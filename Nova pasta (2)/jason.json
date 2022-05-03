@@ -1,0 +1,19 @@
+{
+    "nome":"Programação para WEB",
+    "professor":"Willian",
+    "dia":"Segunda-Feira",
+    "Semestre":1,
+    "ativa":true,
+    "alunos":[ 
+        {   
+            "nome":"Vinicius",
+            "idade":"27"
+        },
+        {   
+            "nome":"João",
+            "idade":"19"
+        } 
+
+    ]
+
+}
