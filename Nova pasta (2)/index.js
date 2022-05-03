@@ -5,7 +5,7 @@ $("#btlogin").click(
         $.ajax({
             type: 'GET',
             url: 'http://jsonplaceholder.typicode.com/users',
-            sucess:function(method) console.log(...data: any[]): void
+            success:function(data){
                 console.log(data);
 
             
@@ -14,4 +14,5 @@ $("#btlogin").click(
         error:function(data){
 
         }
-    })   
+    })  
+    }) 
